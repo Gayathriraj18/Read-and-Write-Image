@@ -19,8 +19,8 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By: Gayathri A
+### Register Number: 212221230028
 i) #To Read,display the image
 ```
 import cv2
@@ -88,8 +88,7 @@ cv2.waitKey(0)
 
 ### iii)Shape of the Image
 
-<br>
-<br>![WhatsApp Image 2023-03-16 at 12 33 27 AM (1)](https://user-images.githubusercontent.com/94154854/225633399-4788b5e8-c292-405f-a9a7-b554d3897027.jpeg)
+![WhatsApp Image 2023-03-16 at 12 33 27 AM (1)](https://user-images.githubusercontent.com/94154854/225636246-e61fd614-a814-40ba-8062-ac2516aad280.jpeg)
 
 
 ### iv)Access rows and columns
