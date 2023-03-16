@@ -62,7 +62,8 @@ v) #To cut and paste portion of image
 
 ### ii)Write the image
 
-<br>
+<br>![WhatsApp Image 2023-03-16 at 12 33 27 AM](https://user-images.githubusercontent.com/94154854/225633325-35ebc129-5ace-443a-bd0f-7e82a4d663f7.jpeg)
+
 <br>
 
 ### iii)Shape of the Image
