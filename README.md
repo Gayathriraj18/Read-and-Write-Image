@@ -23,7 +23,7 @@ End the program and close the output image windows.
 ### Register Number: 
 i) #To Read,display the image
 ```
-  
+
 
 ```
 ii) #To write the image
@@ -56,7 +56,8 @@ v) #To cut and paste portion of image
 
 ### i) Read and display the image
 
-<br>
+<br>![WhatsApp Image 2023-03-16 at 12 33 27 AM](https://user-images.githubusercontent.com/94154854/225633325-35ebc129-5ace-443a-bd0f-7e82a4d663f7.jpeg)
+
 <br>
 
 ### ii)Write the image
@@ -67,14 +68,19 @@ v) #To cut and paste portion of image
 ### iii)Shape of the Image
 
 <br>
-<br>
+<br>![WhatsApp Image 2023-03-16 at 12 33 27 AM (1)](https://user-images.githubusercontent.com/94154854/225633399-4788b5e8-c292-405f-a9a7-b554d3897027.jpeg)
+
 
 ### iv)Access rows and columns
-<br>
+
+<br>![WhatsApp Image 2023-03-16 at 12 33 28 AM](https://user-images.githubusercontent.com/94154854/225633438-ea35b0c7-3919-46d6-8468-fd39be9a6caa.jpeg)
+
 <br>
 
 ### v)Cut and paste portion of image
-<br>
+
+<br>![WhatsApp Image 2023-03-16 at 12 33 28 AM (1)](https://user-images.githubusercontent.com/94154854/225633545-d26c0b54-6cdf-4d56-954d-478cc47ce24a.jpeg)
+
 <br>
 
 ## Result:
